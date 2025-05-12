@@ -36,6 +36,8 @@ Example of function add products
 
 
 ![imagen](https://github.com/user-attachments/assets/21d017f6-c3e8-4b45-8dc2-5611449b0595)
+
+
 ![imagen](https://github.com/user-attachments/assets/cdf2d4b1-5658-4f1f-86ca-f143a662cbfd)
 
 
