@@ -3,13 +3,7 @@ Readme for the test module one
 In this readme, I will explain with examples how the program I developed for the test of module one.
 
 
-The first thing they asked us was to have 5 initial products, which in this case are going to be fruits in a dictionary
-
-inventory= {'strawberry': {'name': 'strawberry', 'price': 7.800, 'quantity': 20},
-            'watermelon': {'name': 'watermelon', 'price': 10.000, 'quantity': 8},
-            'pear': {'name': 'pear', 'price': 4.000, 'quantity': 25},
-            'pineapple': {'name': 'pineapple', 'price': 5.000, 'quantity': 30},
-            'apple': {'name': 'apple', 'price': 3.500, 'quantity': 16}}
+The first thing they asked us was to have 5 initial products
 
 In all data entries a method called .replace was used to allow the user to enter or separate the words by spacing, since if the method is not used, they enter a space and the program takes it as an invalid character            
 
